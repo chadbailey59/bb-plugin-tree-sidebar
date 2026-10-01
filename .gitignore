@@ -1,0 +1,8 @@
+node_modules/
+dist/
+
+# Local env and editor cruft
+.env
+.env.*
+*.log
+.DS_Store
